@@ -59,7 +59,7 @@
 * ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://1login.to/) - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libgen Store Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin)
 * ⭐ **[Library Genesis](https://libgen.is)** or [Libgen.fun](https://libgen.fun/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers
@@ -700,7 +700,7 @@
 * [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
 * [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
 * [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
-* [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
+* [CourtListener](https://www.courtlistener.com/recap/) - Pacer Documents
 * [Aleph](https://github.com/alephdata/aleph) - Document Index Tool
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
